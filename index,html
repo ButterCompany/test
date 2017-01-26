@@ -1,0 +1,33 @@
+
+<!DOCTYPE HTML>
+<link rel="Stylesheet" href="StyleSheets/main.css" type="text/css"/>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Lost&Found</title>
+</head>
+
+<body>
+	<div style="main">
+		<div style="nav">
+			<ul>
+				<li>Home</li>
+				<li>Lost</li>
+				<li>Found</li>
+				<li>Vouch list</li>
+				<li>About us</li>
+			</ul>
+		</div>
+	
+		<div style="content">
+			<p>Posting a lost/found request should be using the following format.<br>
+				<ol>
+					<li>Name: </li>
+					<li>Where was it found/lost: </li>
+					<li>Where can you be contacted : </li>
+				</ol>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
